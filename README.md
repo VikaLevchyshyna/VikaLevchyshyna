@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, my name is Vika!
+
+👩‍💻 I am junior frontend developer 💼 HTML / CSS/ JS / REACT
+
+🔭 I’m currently looking for a job
 
 <!--
 **VikaLevchyshyna/VikaLevchyshyna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
